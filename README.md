@@ -1,4 +1,4 @@
-# Harry Potter RAG Chatbot ⚡
+# Harry Potter RAG Chatbot
 
 A Retrieval-Augmented Generation (RAG) system that answers questions about the
 Harry Potter books. It parses the full seven-book PDF, embeds it locally into a
